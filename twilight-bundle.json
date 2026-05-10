@@ -1,0 +1,14 @@
+{
+    "name": {
+        "en": "lll",
+        "ar": "aaa"
+    },
+    "description": {
+        "en": "",
+        "ar": ""
+    },
+    "author_email": "sa.hotmail@hotmail.com",
+    "support_url": "",
+    "repository": "https://github.com/nufuth/tw-lll",
+    "components": []
+}
